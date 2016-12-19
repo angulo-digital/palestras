@@ -11,3 +11,6 @@ Resumo das palestras ministradas na empresa
 
 ###Junho
 - [Dia 01](/2016/jun/01-06-2016.md) `PHP7` `Incompatibilities` `New Features` `New functions` `Changed functions` `Other changes` `RFC 7.1`
+
+###Dezembro
+- [Dia 15](/2016/dez/15-12-2016.md) `Best Pratices` `Code Quality` `Rules`
